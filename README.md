@@ -8,7 +8,7 @@ A simple port scanner build in python using the folllowing modules
 3.Threading-For threading the scan to make it faster
 
 
-usage: portscanner.py [-h] -H TGTHOST -p TGETPORT
+**usage:**  portscanner.py [-h] -H TGTHOST -p TGETPORT
 
   This is a port scanner
 
