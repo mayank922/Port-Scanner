@@ -1,14 +1,14 @@
 # Port-Scanner
-A simple port scanner build in python using the folllowing modules
+A simple port scanner build in python using the folllowing modules:
 
-1.Argparse - For taking command line input
+   1.Argparse - For taking command line input
 
-2.Socket - For establishing a connection with the port
+   2.Socket - For establishing a connection with the port
 
-3.Threading-For threading the scan to make it faster
+   3.Threading-For threading the scan to make it faster
 
 
-**usage:**  portscanner.py [-h] -H TGTHOST -p TGETPORT
+##**usage:**  portscanner.py [-h] -H TGTHOST -p TGETPORT
 
   This is a port scanner
 
